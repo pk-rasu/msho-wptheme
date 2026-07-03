@@ -1,0 +1,19 @@
+/*
+Theme Name: WhiteKurti
+Theme URI: https://whitekurti.com
+Author: WhiteKurti
+Author URI: https://whitekurti.com
+Description: Premium minimalist Indian ethnicwear theme for WhiteKurti and BlackKurti. Supports dual-brand switching via Customizer. WooCommerce ready.
+Version: 1.0.0
+Requires at least: 6.4
+Tested up to: 6.6
+Requires PHP: 7.4
+License: Proprietary
+License URI: https://whitekurti.com
+Text Domain: whitekurti
+Tags: e-commerce, woocommerce, fashion, indian, ethnic, minimalist, luxury
+
+This theme requires WooCommerce.
+*/
+
+/* Design system CSS is loaded via /assets/css/main.css — see functions.php */
